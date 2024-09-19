@@ -21,6 +21,6 @@ function handleTodoAdded() {
 
 <template>
   <NuxtLayout name="default">
-    <AddTodos />
+    <AddTodos   />
   </NuxtLayout>
 </template>
